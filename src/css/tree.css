@@ -1,0 +1,23 @@
+
+.container {
+    margin-top: 40px;
+    display: flex;
+}
+
+.tree-content {
+    margin-left: 50px;
+    flex: 1;
+}
+
+.pasteBox {
+    flex: 1;
+    margin-right: 20px;
+    max-width: 60%;
+    height: 300px;
+    border: 1px dashed #000;
+}
+
+.pasteBoxHeader {
+    margin-left: 20px;
+    text-align: center;
+}
